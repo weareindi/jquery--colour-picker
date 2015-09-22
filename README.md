@@ -1,7 +1,7 @@
 # Picker
 A colour and opacity picker script designed with progressive enhancement in mind.
 
-**Powered by CSS3 & jQuery**
+**Powered by jQuery**
 
 ***
 ### About
