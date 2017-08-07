@@ -40,4 +40,4 @@ $.picker.settings = { fallback: false };
 
 ***
 ### Demo
-Available here: [Live Demo](http://plugins.ozpital.com/picker)
+Available here: [Live Demo](http://ozpital.com/plugins/picker/demo/)
